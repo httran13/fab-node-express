@@ -1,6 +1,6 @@
 
-djavascript:S1854|"CRemove this useless assignment to local variable "successProposals"(©’΄¶ϊÿÿÿÿ
 Qjavascript:S1854@"5Remove this useless assignment to local variable "tm"(’ΐνι
 }javascript:S2703	"ZAdd the "let", "const" or "var" keyword to this declaration of "ORGS" to make it explicit.(Ό¦«ψ8ªΨ-
-Qjavascript:S1854?"5Remove this useless assignment to local variable "tm"(ΜÒ£υ
 cjavascript:S1854}"BRemove this useless assignment to local variable "failedProposals"(Υƒΐόÿÿÿÿ
+Qjavascript:S1854?"5Remove this useless assignment to local variable "tm"(ΜÒ£υ
+djavascript:S1854|"CRemove this useless assignment to local variable "successProposals"(©’΄¶ϊÿÿÿÿ

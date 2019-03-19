@@ -8,7 +8,7 @@ const winston = require('./src/config/winston').getLogger(module);
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
-let fabricRoute = require('./routes/fabric')
+let transactionRoute = require('./routes/transactions')
 
 var app = express();
 
@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
-app.use('/fabric', fabricRoute);
+app.use('/transaction', transactionRoute);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
